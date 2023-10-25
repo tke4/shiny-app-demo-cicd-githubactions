@@ -1,5 +1,5 @@
 # https://jymaze.shinyapps.io/open_fda_a
-
+install.packages('rsconnect')
 library(shiny)
 library(shiny)
 library(jsonlite)
